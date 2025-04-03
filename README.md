@@ -35,5 +35,6 @@ pip install -r requirements.txt
 
 ## 💻 Uso Básico (Desde Terminal)
 ```bash  
-python camulos/core.py "token_jwt"
+python camulos/core.py
+"token_jwt"
 ```
