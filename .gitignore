@@ -1,0 +1,30 @@
+# Entorno virtual y entornos Python
+venv/
+.env
+.python-version
+
+# Bytecode y caché de Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Herramientas de desarrollo y testing
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Configuraciones de IDE
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos sensibles
+*.key
+*.pem
